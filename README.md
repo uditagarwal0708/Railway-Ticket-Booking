@@ -1,7 +1,7 @@
 # Railway Ticket Booking System  
 
 ## Overview of the Project
-This is a Command Line Interface (CLI) application I built to simulate a basic railway reservation counter. It lets a user book train tickets, check their confirmation status using a generated PNR, and cancel tickets. 
+This is a Command Line Interface (CLI) application built to simulate a basic railway reservation counter. It lets a user book train tickets, check their confirmation status using a generated PNR, and cancel tickets. 
 
 To keep the project lightweight and simple to run, it does not use any heavy external databases like SQL. Instead, it uses basic Python file handling to permanently save all passenger data into a local text file (`tickets.txt`).
 
