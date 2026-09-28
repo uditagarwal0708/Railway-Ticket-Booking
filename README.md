@@ -13,6 +13,7 @@ To keep the project lightweight and simple to run, it does not use any heavy ext
 
 ## Technologies & Tools Used
 * **Language:** Python 3
+* **IDE / Code Editor:** Visual Studio Code 
 * **Storage:** Local text file handling
 * **Built-in Modules:** `os`, `random`, `datetime`
 
